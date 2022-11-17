@@ -5,9 +5,18 @@
 开动前准备工装：
 1.确保手机无谷歌残留。打开应用管理（显示系统程序），搜索google，如有，卸载。（提示：部分需要在设备管理器里解除相应的激活后卸载，以免卸载异常。）
 2.下载文件包，包括google系及谷歌服务助手恢复文件。（助手功能已残，这里仅使用其激活功能。）所有文件已上传阿里云,需要在华为应用商店才能彻底卸载。
+      //-   huawei.zip: 备份文件，用于安装谷歌服务助手便于激活
+      //-   0.apk: MicroG-Huawei fix eloygomezTV 0.2.12.203315-dirty (com.google.android.gms version:203315025)
+      //-   1.apk: google服务框架 10 (com.google.android.gsf version:29)
+      //-   2.apk: googleplay服务 17.8.57 (com.google.android.gms version:17857037)
+      //-   3.apk: googleplay商店 19.5.13-all[0][pr]303545793 (com.android.vending version:81951300)
+      //-   4.apk: google帐户管理程序 4.4.4-1227136 (com.google.android.gsf.login version:19)
+      //-   5.apk: googleplay服务 20.24.14[120408-319035315] (com.google.android.gms version:202414033)
+
 3.自备梯子。
 4.关闭应用分身
 5.关闭google账号的两部验证
+
 
 
 开动步骤：
