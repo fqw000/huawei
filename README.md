@@ -1,8 +1,9 @@
 # huawei
 使用LM Ultimate修改默认launcher（使用小黑屋或者adb冻结华为桌面，安装第三方launcher）可实现重启自动运行第三方launcher
 
+# 华为/荣耀 HMS系手机安装GMS及googleplay
 <pre> 
-华为/荣耀 HMS系手机安装GMS及googleplay
+
 
 开动前准备工装：
 1.确保手机无谷歌残留。打开应用管理（显示系统程序），搜索google，如有，卸载。（提示：部分需要在设备管理器里解除相应的激活后卸载，以免卸载异常。）
