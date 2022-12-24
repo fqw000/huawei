@@ -1,8 +1,7 @@
 # huawei
 使用LM Ultimate修改默认launcher（使用小黑屋或者adb冻结华为桌面，安装第三方launcher）可实现重启自动运行第三方launcher
 
-
-
+<pre> 
 华为/荣耀 HMS系手机安装GMS及googleplay
 
 开动前准备工装：
@@ -59,7 +58,7 @@ e.恢复系统时间
 11.测试play商店是否正常运行，功能是否正常
 12.如异常，回滚以上步骤后重来！！
 13.卸载无关程序：谷歌账户管理、谷歌服务助手。
-
+</pre>
 ### 此时安装的play商店虽能正常运行，但是play保护机制认证还是会显示设备未通过认证，毕竟华为是官方没有合作关系不允许认证的，一般不影响使用，但部分软件版权要求较高，会验证是否通过认证，否则不开放下载。
 解决方案：利用GSF设备注册功能来认证（www.google.com/android/uncertified/），主要是提交设备的GSF码来自行认证，adb可以查GSF码，简单点就用DeviceId软件来读取，然后再也没提交注册会提示成功。
 GSF（google service framework）
